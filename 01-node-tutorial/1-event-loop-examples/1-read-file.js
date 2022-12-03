@@ -1,4 +1,3 @@
-//this is a test
 const { readFile, writeFile } = require('fs')
 
 console.log('started a first task')
